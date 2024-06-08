@@ -1,6 +1,6 @@
 # Kollaborative_Kalender-Webanwendung
 
-Eine kollaborative_Kalender-Webanwendung zur Optimierung der Terminorganisation in Teamumgebungen.
+Eine kollaborative Kalender-Webanwendung zur Optimierung der Terminorganisation in Teamumgebungen ermöglicht Teams, effizient Veranstaltungen, Meetings und andere wichtige Termine zu planen und zu verwalten. Die Anwendung fördert eine nahtlose Zusammenarbeit und Kommunikation innerhalb von Teams, indem sie Funktionen wie das Erstellen, Reservieren, Bearbeiten und Löschen von Terminen bereitstellt.
 
 ## Technologie-Stack
 
