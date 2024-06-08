@@ -20,11 +20,3 @@ Eine kollaborative Kalender-Webanwendung zur Optimierung der Terminorganisation 
 
 - Java Development Kit (JDK)
 - Webbrowser
-
-### Schritte
-
-1. **Repository klonen**
-   ```bash
-   
-   git clone https://github.com/IhrBenutzername/Kollaborative_Kalendar_App.git
-
