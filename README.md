@@ -1,6 +1,6 @@
-# Kollaborative Kalender-Webanwendung
+# Kollaborative_Kalender-Webanwendung
 
-Eine kollaborative Kalender-Webanwendung zur Optimierung der Terminorganisation in Teamumgebungen.
+Eine kollaborative_Kalender-Webanwendung zur Optimierung der Terminorganisation in Teamumgebungen.
 
 ## Technologie-Stack
 
