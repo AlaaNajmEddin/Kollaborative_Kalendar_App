@@ -19,7 +19,6 @@ Eine kollaborative Kalender-Webanwendung zur Optimierung der Terminorganisation 
 ### Voraussetzungen
 
 - Java Development Kit (JDK)
-- MySQL-Datenbank
 - Webbrowser
 
 ### Schritte
