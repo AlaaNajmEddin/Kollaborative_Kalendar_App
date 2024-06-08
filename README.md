@@ -6,7 +6,6 @@ Eine kollaborative Kalender-Webanwendung zur Optimierung der Terminorganisation 
 
 - **Frontend**: HTML, CSS
 - **Backend**: Java
-- **Datenbank**: MySQL
 
 ## Entwicklungsprozess (ADIT)
 
