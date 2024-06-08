@@ -1,0 +1,1 @@
+**Die Webanwendung** wurde konzipiert, um einer Gruppe von Benutzern die kooperative Verwaltung von Terminen zu erleichtern. Ihr Hauptziel besteht darin, die Effizienz der Terminplanung und -organisation innerhalb eines Teams zu steigern.
